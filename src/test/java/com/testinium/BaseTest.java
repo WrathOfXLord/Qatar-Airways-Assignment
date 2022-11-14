@@ -17,7 +17,7 @@ import io.appium.java_client.remote.MobileCapabilityType;
 import io.appium.java_client.remote.MobilePlatform;
 
 public class BaseTest {
-    protected static AppiumDriver<MobileElement> appiumDriver;
+    protected static AppiumDriver<MobileElement> driver;
     protected static Logger logger = LogManager.getLogger(BaseTest.class);
     protected boolean localAndroid = true;
     protected String deviceName = "b81ade34";
@@ -38,7 +38,7 @@ public class BaseTest {
                 setCapability("autoDismissAlerts", true);
             }};
             URL url = new URL(urlString);
-            appiumDriver = new AppiumDriver<MobileElement>(url, desiredCapabilities);
+            driver = new AppiumDriver<MobileElement>(url, desiredCapabilities);
         } else {
             
             logger.info("IOS test begins.");
@@ -49,6 +49,6 @@ public class BaseTest {
     @AfterScenario
     public void terminate() {
         logger.info("Connection terminated.");
-        appiumDriver.quit();
+        driver.quit();
     }
 }

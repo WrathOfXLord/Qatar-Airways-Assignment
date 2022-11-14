@@ -1,4 +1,4 @@
-package com.testinium;
+package com.testinium.Steps;
 
 public enum Direction {
     LEFT,

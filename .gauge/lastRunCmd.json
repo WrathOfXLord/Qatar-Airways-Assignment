@@ -1,0 +1,8 @@
+[
+	"gauge",
+	"run",
+	"--hide-suggestion",
+	"--simple-console",
+	"--dir=c:\\Repository\\Java\\qatar-airways-assignment",
+	"c:\\Repository\\Java\\qatar-airways-assignment\\specs\\example.spec:7"
+]

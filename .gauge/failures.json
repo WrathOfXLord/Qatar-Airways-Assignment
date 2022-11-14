@@ -1,0 +1,11 @@
+{
+	"Args": [
+		"run",
+		"--hide-suggestion",
+		"--simple-console",
+		"--dir=c:\\Repository\\Java\\qatar-airways-assignment"
+	],
+	"FailedItems": [
+		"specs\\example.spec:7"
+	]
+}
