@@ -1335,3 +1335,607 @@ Error : exit status 1
 Some of the gauge lsp feature will not work as expected.
 14-11-2022 19:45:36.154 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
 14-11-2022 19:45:36.160 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+14-11-2022 19:50:40.913 [Gauge] [INFO] Connection closed
+14-11-2022 19:50:40.913 [Gauge] [ERROR] Unable to log error 'Connection closed' to LSP: jsonrpc2: connection is closed
+15-11-2022 13:44:44.287 [Gauge] [INFO] Watching directory: c:\Repository\Java\qatar-airways-assignment\specs
+15-11-2022 13:44:44.290 [Gauge] [DEBUG] Found 1 files
+15-11-2022 13:44:44.292 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-11-2022 13:44:44.332 [Gauge] [INFO] Initializing specs cache with 1 specs
+15-11-2022 13:44:44.332 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 13:44:44.332 [Gauge] [INFO] Initializing steps cache with 1 steps
+15-11-2022 13:44:44.411 [Gauge] [INFO] Starting language runner
+15-11-2022 13:44:47.374 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+15-11-2022 13:44:59.432 [Gauge] [INFO] Watching directory: c:\Repository\Java\qatar-airways-assignment\specs
+15-11-2022 13:44:59.433 [Gauge] [DEBUG] Found 1 files
+15-11-2022 13:44:59.449 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-11-2022 13:44:59.453 [Gauge] [INFO] Initializing specs cache with 1 specs
+15-11-2022 13:44:59.453 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 13:44:59.453 [Gauge] [INFO] Initializing steps cache with 1 steps
+15-11-2022 13:44:59.456 [Gauge] [INFO] Starting language runner
+15-11-2022 13:45:02.308 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+15-11-2022 13:45:29.480 [Gauge] [DEBUG] unable to connect to runner : Timed out connecting to java
+Some of the gauge lsp feature will not work as expected.
+15-11-2022 13:45:29.480 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+15-11-2022 13:45:29.514 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+15-11-2022 13:48:41.650 [Gauge] [DEBUG] request #3: textDocument/documentSymbol: parsing failed for c:\Repository\Java\qatar-airways-assignment\specs\example.spec. [[ParseError] c:\Repository\Java\qatar-airways-assignment\specs\example.spec:1 Spec does not have any elements => '']
+15-11-2022 13:48:51.159 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 13:48:51.164 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 13:52:52.675 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 13:52:52.701 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 13:56:27.473 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 13:56:27.477 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 13:59:03.007 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 13:59:03.012 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 13:59:06.735 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 13:59:06.741 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:10:31.163 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:10:31.169 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:10:32.533 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:10:32.536 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:32.550 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:32.553 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:35.240 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:35.245 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:42.625 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:42.629 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:43.645 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:43.648 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:45.236 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:45.243 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:47.233 [Gauge] [CRITICAL] request #66: textDocument/completion: runtime error: invalid memory address or nil pointer dereference
+goroutine 203 [running]:
+runtime/debug.Stack(0xc000349220, 0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/debug/stack.go:24 +0xa4
+github.com/getgauge/gauge/api/lang.recoverPanic(0xc0003449b0)
+	D:/a/gauge/gauge/api/lang/server.go:311 +0x5e
+panic(0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/panic.go:679 +0x1c0
+github.com/getgauge/gauge/runner.(*GrpcRunner).ExecuteMessageWithTimeout(...)
+	D:/a/gauge/gauge/runner/grpcRunner.go:204
+github.com/getgauge/gauge/api/lang.getAllStepsResponse(0xc000349e60, 0xc00017e038, 0xb58fd3)
+	D:/a/gauge/gauge/api/lang/runner.go:139 +0x7a
+github.com/getgauge/gauge/api/lang.allImplementedStepValues(0xc00017e000, 0x0, 0x0, 0x0, 0x1)
+	D:/a/gauge/gauge/api/lang/completionStep.go:74 +0x3b
+github.com/getgauge/gauge/api/lang.stepCompletion(0xc0001ef35f, 0x72, 0xc0001ef35f, 0x5b, 0xc000407180, 0x48, 0x9, 0x5b, 0x0, 0xc0004d8210, ...)
+	D:/a/gauge/gauge/api/lang/completionStep.go:43 +0x629
+github.com/getgauge/gauge/api/lang.completion(0xc0003449b0, 0xb65a7f, 0x17, 0x1, 0x0)
+	D:/a/gauge/gauge/api/lang/completion.go:71 +0x1fb
+github.com/getgauge/gauge/api/lang.(*LangHandler).Handle(0x10d6ff0, 0xc50ca0, 0xc000032150, 0xc4d720, 0xc000334300, 0xc0003449b0, 0x71883c, 0xc000440000, 0x7eb, 0xb56ba3)
+	D:/a/gauge/gauge/api/lang/server.go:135 +0x22ac
+github.com/getgauge/gauge/api/lang.(*LangHandler).handle(0x10d6ff0, 0xc50ca0, 0xc000032150, 0xc000334300, 0xc0003449b0, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/server.go:71 +0xd4
+github.com/sourcegraph/jsonrpc2.(*HandlerWithErrorConfigurer).Handle(0xc000330130, 0xc50ca0, 0xc000032150, 0xc000334300, 0xc0003449b0)
+	D:/a/gauge/gauge/vendor/github.com/sourcegraph/jsonrpc2/handler_with_error.go:21 +0x7a
+created by github.com/getgauge/gauge/api/lang.lspHandler.Handle
+	D:/a/gauge/gauge/api/lang/server.go:66 +0x72
+15-11-2022 14:11:47.456 [Gauge] [INFO] Watching directory: c:\Repository\Java\qatar-airways-assignment\specs
+15-11-2022 14:11:47.457 [Gauge] [DEBUG] Found 1 files
+15-11-2022 14:11:47.465 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-11-2022 14:11:47.468 [Gauge] [INFO] Initializing specs cache with 1 specs
+15-11-2022 14:11:47.468 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:47.468 [Gauge] [INFO] Initializing steps cache with 1 steps
+15-11-2022 14:11:47.470 [Gauge] [INFO] Starting language runner
+15-11-2022 14:11:47.697 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:47.701 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:50.416 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+15-11-2022 14:11:53.549 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:53.552 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:54.404 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:54.411 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:58.430 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:11:58.433 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:12:01.136 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:12:01.142 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:12:07.621 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:12:07.625 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:12:17.490 [Gauge] [DEBUG] unable to connect to runner : Timed out connecting to java
+Some of the gauge lsp feature will not work as expected.
+15-11-2022 14:12:17.490 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+15-11-2022 14:12:17.511 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+15-11-2022 14:12:40.540 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:12:40.546 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:13:07.807 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:13:07.810 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:13:11.042 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:13:11.048 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:13:13.013 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:13:13.017 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:13:16.190 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:13:16.194 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:13:38.364 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:13:38.367 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:13:42.129 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:13:42.134 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:13:45.001 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:13:45.007 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:15:00.453 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:15:00.459 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:15:01.759 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:15:01.762 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:15:02.360 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:15:02.368 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:15:04.393 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:15:04.400 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:15:05.503 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:15:05.508 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:15:07.180 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:15:07.185 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:15:07.733 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 14:15:07.737 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:19:07.711 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:19:07.716 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:19:09.039 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:19:09.042 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:23:59.414 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:23:59.526 [Gauge] [DEBUG] request #151: textDocument/documentSymbol: parsing failed for c:\Repository\Java\qatar-airways-assignment\specs\test.spec. [[ParseError] c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements => '']
+15-11-2022 18:23:59.743 [Gauge] [DEBUG] request #152: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements
+15-11-2022 18:24:06.867 [Gauge] [DEBUG] request #158: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements
+15-11-2022 18:24:07.637 [Gauge] [DEBUG] request #159: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements
+15-11-2022 18:24:08.151 [Gauge] [DEBUG] request #160: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Scenario should be defined after the spec heading
+15-11-2022 18:24:08.246 [Gauge] [DEBUG] request #162: textDocument/documentSymbol: parsing failed for c:\Repository\Java\qatar-airways-assignment\specs\test.spec. [[ParseError] c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements => '' [ParseError] c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Scenario should be defined after the spec heading => 'Check the application is running']
+15-11-2022 18:24:08.401 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:24:08.407 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:24:11.094 [Gauge] [DEBUG] request #167: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Scenario should be defined after the spec heading
+15-11-2022 18:24:11.618 [Gauge] [DEBUG] request #169: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Scenario should be defined after the spec heading
+15-11-2022 18:24:12.138 [Gauge] [DEBUG] request #170: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Scenario should be defined after the spec heading
+15-11-2022 18:24:12.235 [Gauge] [DEBUG] request #171: textDocument/documentSymbol: parsing failed for c:\Repository\Java\qatar-airways-assignment\specs\test.spec. [[ParseError] c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements => '' [ParseError] c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Scenario should be defined after the spec heading => 'Go']
+15-11-2022 18:24:12.893 [Gauge] [DEBUG] request #172: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Scenario should be defined after the spec heading
+15-11-2022 18:24:12.995 [Gauge] [DEBUG] request #173: textDocument/documentSymbol: parsing failed for c:\Repository\Java\qatar-airways-assignment\specs\test.spec. [[ParseError] c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements => '' [ParseError] c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Scenario should be defined after the spec heading => 'Go to ']
+15-11-2022 18:24:13.148 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:24:13.152 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:24:14.523 [Gauge] [DEBUG] request #174: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Scenario should be defined after the spec heading
+15-11-2022 18:24:14.629 [Gauge] [DEBUG] request #175: textDocument/documentSymbol: parsing failed for c:\Repository\Java\qatar-airways-assignment\specs\test.spec. [[ParseError] c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements => '' [ParseError] c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Scenario should be defined after the spec heading => 'Go to booking']
+15-11-2022 18:24:14.774 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:24:14.782 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:24:27.175 [Gauge] [DEBUG] request #183: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Scenario should be defined after the spec heading
+15-11-2022 18:24:30.649 [Gauge] [DEBUG] request #186: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec does not have any elements
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Scenario should be defined after the spec heading
+15-11-2022 18:24:31.519 [Gauge] [DEBUG] request #188: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec heading not found
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:2 Scenario should be defined after the spec heading
+15-11-2022 18:24:31.619 [Gauge] [DEBUG] request #189: textDocument/documentSymbol: parsing failed for c:\Repository\Java\qatar-airways-assignment\specs\test.spec. [[ParseError] c:\Repository\Java\qatar-airways-assignment\specs\test.spec:1 Spec heading not found => '' [ParseError] c:\Repository\Java\qatar-airways-assignment\specs\test.spec:2 Scenario should be defined after the spec heading => 'Go to booking']
+15-11-2022 18:24:31.799 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:24:31.802 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:24:32.930 [Gauge] [DEBUG] request #191: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:3 Scenario should have atleast one step
+15-11-2022 18:24:33.026 [Gauge] [DEBUG] request #193: textDocument/documentSymbol: parsing failed for c:\Repository\Java\qatar-airways-assignment\specs\test.spec. [[ParseError] c:\Repository\Java\qatar-airways-assignment\specs\test.spec:3 Scenario should have atleast one step => '']
+15-11-2022 18:24:33.179 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:24:33.183 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:24:35.894 [Gauge] [DEBUG] request #196: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+c:\Repository\Java\qatar-airways-assignment\specs\test.spec:3 Scenario should have atleast one step
+15-11-2022 18:24:35.993 [Gauge] [DEBUG] request #197: textDocument/documentSymbol: parsing failed for c:\Repository\Java\qatar-airways-assignment\specs\test.spec. [[ParseError] c:\Repository\Java\qatar-airways-assignment\specs\test.spec:3 Scenario should have atleast one step => '']
+15-11-2022 18:24:36.174 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:24:36.179 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:24:44.286 [Gauge] [CRITICAL] request #198: textDocument/completion: runtime error: invalid memory address or nil pointer dereference
+goroutine 395 [running]:
+runtime/debug.Stack(0xc000173220, 0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/debug/stack.go:24 +0xa4
+github.com/getgauge/gauge/api/lang.recoverPanic(0xc00047c050)
+	D:/a/gauge/gauge/api/lang/server.go:311 +0x5e
+panic(0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/panic.go:679 +0x1c0
+github.com/getgauge/gauge/runner.(*GrpcRunner).ExecuteMessageWithTimeout(...)
+	D:/a/gauge/gauge/runner/grpcRunner.go:204
+github.com/getgauge/gauge/api/lang.getAllStepsResponse(0xc000173e60, 0xc000184038, 0x0)
+	D:/a/gauge/gauge/api/lang/runner.go:139 +0x7a
+github.com/getgauge/gauge/api/lang.allImplementedStepValues(0xc000184000, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/completionStep.go:74 +0x3b
+github.com/getgauge/gauge/api/lang.stepCompletion(0xc000034294, 0x1, 0xc000034294, 0x1, 0xc0002d0000, 0x45, 0x4, 0x1, 0x0, 0xc0004c20b0, ...)
+	D:/a/gauge/gauge/api/lang/completionStep.go:43 +0x629
+github.com/getgauge/gauge/api/lang.completion(0xc00047c050, 0xb65a7f, 0x17, 0x1, 0x0)
+	D:/a/gauge/gauge/api/lang/completion.go:71 +0x1fb
+github.com/getgauge/gauge/api/lang.(*LangHandler).Handle(0x10d6ff0, 0xc50ca0, 0xc000032150, 0xc4d720, 0xc0001fa700, 0xc00047c050, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/server.go:135 +0x22ac
+github.com/getgauge/gauge/api/lang.(*LangHandler).handle(0x10d6ff0, 0xc50ca0, 0xc000032150, 0xc0001fa700, 0xc00047c050, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/server.go:71 +0xd4
+github.com/sourcegraph/jsonrpc2.(*HandlerWithErrorConfigurer).Handle(0xc0002b9670, 0xc50ca0, 0xc000032150, 0xc0001fa700, 0xc00047c050)
+	D:/a/gauge/gauge/vendor/github.com/sourcegraph/jsonrpc2/handler_with_error.go:21 +0x7a
+created by github.com/getgauge/gauge/api/lang.lspHandler.Handle
+	D:/a/gauge/gauge/api/lang/server.go:66 +0x72
+15-11-2022 18:24:44.384 [Gauge] [INFO] Watching directory: c:\Repository\Java\qatar-airways-assignment\specs
+15-11-2022 18:24:44.384 [Gauge] [DEBUG] Found 2 files
+15-11-2022 18:24:44.389 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-11-2022 18:24:44.390 [Gauge] [INFO] Initializing specs cache with 2 specs
+15-11-2022 18:24:44.390 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:24:44.390 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:24:44.390 [Gauge] [INFO] Initializing steps cache with 2 steps
+15-11-2022 18:24:44.402 [Gauge] [INFO] Starting language runner
+15-11-2022 18:24:44.747 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:24:44.750 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:24:46.138 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+15-11-2022 18:25:14.435 [Gauge] [DEBUG] unable to connect to runner : Timed out connecting to java
+Some of the gauge lsp feature will not work as expected.
+15-11-2022 18:25:14.435 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+15-11-2022 18:25:14.452 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+15-11-2022 18:25:14.491 [Gauge] [CRITICAL] request #1: textDocument/completion: runtime error: invalid memory address or nil pointer dereference
+goroutine 22 [running]:
+runtime/debug.Stack(0xc00030b220, 0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/debug/stack.go:24 +0xa4
+github.com/getgauge/gauge/api/lang.recoverPanic(0xc000383d60)
+	D:/a/gauge/gauge/api/lang/server.go:311 +0x5e
+panic(0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/panic.go:679 +0x1c0
+github.com/getgauge/gauge/runner.(*GrpcRunner).ExecuteMessageWithTimeout(...)
+	D:/a/gauge/gauge/runner/grpcRunner.go:204
+github.com/getgauge/gauge/api/lang.getAllStepsResponse(0xc00030be60, 0xc000170038, 0x0)
+	D:/a/gauge/gauge/api/lang/runner.go:139 +0x7a
+github.com/getgauge/gauge/api/lang.allImplementedStepValues(0xc000170000, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/completionStep.go:74 +0x3b
+github.com/getgauge/gauge/api/lang.stepCompletion(0xc000034534, 0x8, 0xc000034534, 0x8, 0xc00002e1e0, 0x45, 0x4, 0x8, 0xc00009e080, 0x32, ...)
+	D:/a/gauge/gauge/api/lang/completionStep.go:43 +0x629
+github.com/getgauge/gauge/api/lang.completion(0xc000383d60, 0xb65a7f, 0x17, 0x1, 0x0)
+	D:/a/gauge/gauge/api/lang/completion.go:71 +0x1fb
+github.com/getgauge/gauge/api/lang.(*LangHandler).Handle(0x10d6ff0, 0xc50ca0, 0xc000086128, 0xc4d720, 0xc0001c8580, 0xc000383d60, 0x0, 0x8, 0xc000239dd0, 0x9b5c1f)
+	D:/a/gauge/gauge/api/lang/server.go:135 +0x22ac
+github.com/getgauge/gauge/api/lang.(*LangHandler).handle(0x10d6ff0, 0xc50ca0, 0xc000086128, 0xc0001c8580, 0xc000383d60, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/server.go:71 +0xd4
+github.com/sourcegraph/jsonrpc2.(*HandlerWithErrorConfigurer).Handle(0xc0001be2e0, 0xc50ca0, 0xc000086128, 0xc0001c8580, 0xc000383d60)
+	D:/a/gauge/gauge/vendor/github.com/sourcegraph/jsonrpc2/handler_with_error.go:21 +0x7a
+created by github.com/getgauge/gauge/api/lang.lspHandler.Handle
+	D:/a/gauge/gauge/api/lang/server.go:66 +0x72
+15-11-2022 18:25:14.541 [Gauge] [INFO] Watching directory: c:\Repository\Java\qatar-airways-assignment\specs
+15-11-2022 18:25:14.541 [Gauge] [DEBUG] Found 2 files
+15-11-2022 18:25:14.547 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-11-2022 18:25:14.549 [Gauge] [INFO] Initializing specs cache with 2 specs
+15-11-2022 18:25:14.549 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:25:14.549 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:25:14.549 [Gauge] [INFO] Initializing steps cache with 2 steps
+15-11-2022 18:25:14.550 [Gauge] [INFO] Starting language runner
+15-11-2022 18:25:14.814 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:25:14.817 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:25:15.958 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+15-11-2022 18:25:16.139 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:25:16.145 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:25:17.699 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:25:17.706 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:25:19.926 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:25:19.930 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:25:22.034 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:25:22.037 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:25:28.266 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:25:28.270 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:25:29.322 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:25:29.326 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:25:44.565 [Gauge] [DEBUG] unable to connect to runner : Timed out connecting to java
+Some of the gauge lsp feature will not work as expected.
+15-11-2022 18:25:44.565 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+15-11-2022 18:25:44.566 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+15-11-2022 18:38:10.422 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:38:10.425 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:38:21.213 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:38:21.217 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:38:35.298 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:38:35.304 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:38:53.093 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:38:53.094 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:39:08.665 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:39:08.669 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:41:23.172 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:41:23.174 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:41:23.746 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:41:23.749 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:42:29.873 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:42:29.877 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:42:30.672 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:42:30.677 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:42:35.914 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:42:35.919 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:42:40.062 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:42:40.066 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:42:41.265 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:42:41.269 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:45:13.346 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:45:13.351 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:45:14.240 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:45:14.246 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:45:19.368 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:45:19.372 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:45:19.607 [Gauge] [CRITICAL] request #106: textDocument/completion: runtime error: invalid memory address or nil pointer dereference
+goroutine 253 [running]:
+runtime/debug.Stack(0xc0002b3220, 0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/debug/stack.go:24 +0xa4
+github.com/getgauge/gauge/api/lang.recoverPanic(0xc000263e50)
+	D:/a/gauge/gauge/api/lang/server.go:311 +0x5e
+panic(0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/panic.go:679 +0x1c0
+github.com/getgauge/gauge/runner.(*GrpcRunner).ExecuteMessageWithTimeout(...)
+	D:/a/gauge/gauge/runner/grpcRunner.go:204
+github.com/getgauge/gauge/api/lang.getAllStepsResponse(0xc0002b3e60, 0xc00014c038, 0xb58fd3)
+	D:/a/gauge/gauge/api/lang/runner.go:139 +0x7a
+github.com/getgauge/gauge/api/lang.allImplementedStepValues(0xc00014c000, 0x0, 0x0, 0x0, 0x1)
+	D:/a/gauge/gauge/api/lang/completionStep.go:74 +0x3b
+github.com/getgauge/gauge/api/lang.stepCompletion(0xc00032a2b7, 0x14, 0xc00032a2b7, 0x14, 0xc00023e230, 0x48, 0x18, 0x14, 0x30, 0xae9d60, ...)
+	D:/a/gauge/gauge/api/lang/completionStep.go:43 +0x629
+github.com/getgauge/gauge/api/lang.completion(0xc000263e50, 0xb65a7f, 0x17, 0x1, 0x0)
+	D:/a/gauge/gauge/api/lang/completion.go:71 +0x1fb
+github.com/getgauge/gauge/api/lang.(*LangHandler).Handle(0x10d6ff0, 0xc50ca0, 0xc000032150, 0xc4d720, 0xc0001a0a80, 0xc000263e50, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/server.go:135 +0x22ac
+github.com/getgauge/gauge/api/lang.(*LangHandler).handle(0x10d6ff0, 0xc50ca0, 0xc000032150, 0xc0001a0a80, 0xc000263e50, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/server.go:71 +0xd4
+github.com/sourcegraph/jsonrpc2.(*HandlerWithErrorConfigurer).Handle(0xc0001988a0, 0xc50ca0, 0xc000032150, 0xc0001a0a80, 0xc000263e50)
+	D:/a/gauge/gauge/vendor/github.com/sourcegraph/jsonrpc2/handler_with_error.go:21 +0x7a
+created by github.com/getgauge/gauge/api/lang.lspHandler.Handle
+	D:/a/gauge/gauge/api/lang/server.go:66 +0x72
+15-11-2022 18:45:19.664 [Gauge] [INFO] Watching directory: c:\Repository\Java\qatar-airways-assignment\specs
+15-11-2022 18:45:19.666 [Gauge] [DEBUG] Found 2 files
+15-11-2022 18:45:19.673 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-11-2022 18:45:19.674 [Gauge] [INFO] Initializing specs cache with 2 specs
+15-11-2022 18:45:19.674 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:45:19.674 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:45:19.674 [Gauge] [INFO] Initializing steps cache with 2 steps
+15-11-2022 18:45:19.675 [Gauge] [INFO] Starting language runner
+15-11-2022 18:45:20.204 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:45:20.207 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:45:21.067 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:45:21.071 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:45:21.110 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+15-11-2022 18:45:49.683 [Gauge] [DEBUG] unable to connect to runner : Timed out connecting to java
+Some of the gauge lsp feature will not work as expected.
+15-11-2022 18:45:49.683 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+15-11-2022 18:45:49.692 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+15-11-2022 18:45:51.176 [Gauge] [DEBUG] request #5: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+c:\Repository\Java\qatar-airways-assignment\specs\example.spec:27 Dynamic parameter <location> could not be resolved
+15-11-2022 18:45:51.337 [Gauge] [DEBUG] request #7: textDocument/documentSymbol: parsing failed for c:\Repository\Java\qatar-airways-assignment\specs\example.spec. [[ParseError] c:\Repository\Java\qatar-airways-assignment\specs\example.spec:27 Dynamic parameter <location> could not be resolved => 'Enter <location> as departureClick the element with "com.m.qr:id/rvmp_fragment_rtow_flight_selection_origin_holder" id']
+15-11-2022 18:45:51.453 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:45:51.458 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:45:55.412 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:45:55.415 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:00.614 [Gauge] [CRITICAL] request #16: textDocument/completion: runtime error: invalid memory address or nil pointer dereference
+goroutine 114 [running]:
+runtime/debug.Stack(0xc000409220, 0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/debug/stack.go:24 +0xa4
+github.com/getgauge/gauge/api/lang.recoverPanic(0xc000322140)
+	D:/a/gauge/gauge/api/lang/server.go:311 +0x5e
+panic(0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/panic.go:679 +0x1c0
+github.com/getgauge/gauge/runner.(*GrpcRunner).ExecuteMessageWithTimeout(...)
+	D:/a/gauge/gauge/runner/grpcRunner.go:204
+github.com/getgauge/gauge/api/lang.getAllStepsResponse(0xc000409e60, 0xc000194038, 0x0)
+	D:/a/gauge/gauge/api/lang/runner.go:139 +0x7a
+github.com/getgauge/gauge/api/lang.allImplementedStepValues(0xc000194000, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/completionStep.go:74 +0x3b
+github.com/getgauge/gauge/api/lang.stepCompletion(0xc00040bde6, 0x15, 0xc00040bde6, 0x15, 0xc00008b360, 0x48, 0x1a, 0x15, 0x0, 0x0, ...)
+	D:/a/gauge/gauge/api/lang/completionStep.go:43 +0x629
+github.com/getgauge/gauge/api/lang.completion(0xc000322140, 0xb65a7f, 0x17, 0x1, 0x0)
+	D:/a/gauge/gauge/api/lang/completion.go:71 +0x1fb
+github.com/getgauge/gauge/api/lang.(*LangHandler).Handle(0x10d6ff0, 0xc50ca0, 0xc000086128, 0xc4d720, 0xc00033e300, 0xc000322140, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/server.go:135 +0x22ac
+github.com/getgauge/gauge/api/lang.(*LangHandler).handle(0x10d6ff0, 0xc50ca0, 0xc000086128, 0xc00033e300, 0xc000322140, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/server.go:71 +0xd4
+github.com/sourcegraph/jsonrpc2.(*HandlerWithErrorConfigurer).Handle(0xc000066160, 0xc50ca0, 0xc000086128, 0xc00033e300, 0xc000322140)
+	D:/a/gauge/gauge/vendor/github.com/sourcegraph/jsonrpc2/handler_with_error.go:21 +0x7a
+created by github.com/getgauge/gauge/api/lang.lspHandler.Handle
+	D:/a/gauge/gauge/api/lang/server.go:66 +0x72
+15-11-2022 18:46:00.683 [Gauge] [INFO] Watching directory: c:\Repository\Java\qatar-airways-assignment\specs
+15-11-2022 18:46:00.683 [Gauge] [DEBUG] Found 2 files
+15-11-2022 18:46:00.687 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-11-2022 18:46:00.688 [Gauge] [INFO] Initializing specs cache with 2 specs
+15-11-2022 18:46:00.688 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:46:00.688 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:00.688 [Gauge] [INFO] Initializing steps cache with 2 steps
+15-11-2022 18:46:00.689 [Gauge] [INFO] Starting language runner
+15-11-2022 18:46:01.135 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:01.137 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:02.152 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+15-11-2022 18:46:05.113 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:05.117 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:06.284 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:06.286 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:10.137 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:10.140 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:14.212 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:14.215 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:30.699 [Gauge] [DEBUG] unable to connect to runner : Timed out connecting to java
+Some of the gauge lsp feature will not work as expected.
+15-11-2022 18:46:30.699 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+15-11-2022 18:46:30.702 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+15-11-2022 18:46:53.517 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:53.520 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:55.919 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:55.921 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:56.568 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:46:56.571 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:47:00.604 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:47:00.606 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:47:22.105 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:47:22.110 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:47:26.557 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:47:26.562 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:47:31.955 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:47:31.960 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:47:33.828 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:47:33.831 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:47:59.047 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:47:59.049 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:03.086 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:03.088 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:03.720 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:03.724 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:04.776 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:04.780 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:20.439 [Gauge] [DEBUG] request #90: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+c:\Repository\Java\qatar-airways-assignment\specs\example.spec:34 Dynamic parameter <day> could not be resolved
+15-11-2022 18:48:20.539 [Gauge] [DEBUG] request #92: textDocument/documentSymbol: parsing failed for c:\Repository\Java\qatar-airways-assignment\specs\example.spec. [[ParseError] c:\Repository\Java\qatar-airways-assignment\specs\example.spec:34 Dynamic parameter <day> could not be resolved => 'Select date: <day>']
+15-11-2022 18:48:20.701 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:20.704 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:22.325 [Gauge] [CRITICAL] request #94: textDocument/completion: runtime error: invalid memory address or nil pointer dereference
+goroutine 288 [running]:
+runtime/debug.Stack(0xc0002d1220, 0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/debug/stack.go:24 +0xa4
+github.com/getgauge/gauge/api/lang.recoverPanic(0xc00023ebe0)
+	D:/a/gauge/gauge/api/lang/server.go:311 +0x5e
+panic(0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/panic.go:679 +0x1c0
+github.com/getgauge/gauge/runner.(*GrpcRunner).ExecuteMessageWithTimeout(...)
+	D:/a/gauge/gauge/runner/grpcRunner.go:204
+github.com/getgauge/gauge/api/lang.getAllStepsResponse(0xc0002d1e60, 0xc00017e038, 0x0)
+	D:/a/gauge/gauge/api/lang/runner.go:139 +0x7a
+github.com/getgauge/gauge/api/lang.allImplementedStepValues(0xc00017e000, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/completionStep.go:74 +0x3b
+github.com/getgauge/gauge/api/lang.stepCompletion(0xc0002da3ab, 0xf, 0xc0002da3ab, 0xf, 0xc0002de000, 0x48, 0x21, 0xf, 0x0, 0x0, ...)
+	D:/a/gauge/gauge/api/lang/completionStep.go:43 +0x629
+github.com/getgauge/gauge/api/lang.completion(0xc00023ebe0, 0xb65a7f, 0x17, 0x1, 0x0)
+	D:/a/gauge/gauge/api/lang/completion.go:71 +0x1fb
+github.com/getgauge/gauge/api/lang.(*LangHandler).Handle(0x10d6ff0, 0xc50ca0, 0xc000032150, 0xc4d720, 0xc000116800, 0xc00023ebe0, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/server.go:135 +0x22ac
+github.com/getgauge/gauge/api/lang.(*LangHandler).handle(0x10d6ff0, 0xc50ca0, 0xc000032150, 0xc000116800, 0xc00023ebe0, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/server.go:71 +0xd4
+github.com/sourcegraph/jsonrpc2.(*HandlerWithErrorConfigurer).Handle(0xc0001c3890, 0xc50ca0, 0xc000032150, 0xc000116800, 0xc00023ebe0)
+	D:/a/gauge/gauge/vendor/github.com/sourcegraph/jsonrpc2/handler_with_error.go:21 +0x7a
+created by github.com/getgauge/gauge/api/lang.lspHandler.Handle
+	D:/a/gauge/gauge/api/lang/server.go:66 +0x72
+15-11-2022 18:48:22.428 [Gauge] [INFO] Watching directory: c:\Repository\Java\qatar-airways-assignment\specs
+15-11-2022 18:48:22.428 [Gauge] [DEBUG] Found 2 files
+15-11-2022 18:48:22.433 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-11-2022 18:48:22.434 [Gauge] [INFO] Initializing specs cache with 2 specs
+15-11-2022 18:48:22.434 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:48:22.434 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:22.434 [Gauge] [INFO] Initializing steps cache with 2 steps
+15-11-2022 18:48:22.436 [Gauge] [INFO] Starting language runner
+15-11-2022 18:48:23.133 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:23.135 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:23.717 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+15-11-2022 18:48:24.305 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:24.310 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:46.095 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:46.098 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:47.033 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:47.038 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:48:52.455 [Gauge] [DEBUG] unable to connect to runner : Timed out connecting to java
+Some of the gauge lsp feature will not work as expected.
+15-11-2022 18:48:52.455 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+15-11-2022 18:48:52.458 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+15-11-2022 18:49:16.928 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:49:16.932 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:49:18.448 [Gauge] [CRITICAL] request #13: textDocument/completion: runtime error: invalid memory address or nil pointer dereference
+goroutine 28 [running]:
+runtime/debug.Stack(0xc0001cb220, 0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/debug/stack.go:24 +0xa4
+github.com/getgauge/gauge/api/lang.recoverPanic(0xc000252140)
+	D:/a/gauge/gauge/api/lang/server.go:311 +0x5e
+panic(0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/panic.go:679 +0x1c0
+github.com/getgauge/gauge/runner.(*GrpcRunner).ExecuteMessageWithTimeout(...)
+	D:/a/gauge/gauge/runner/grpcRunner.go:204
+github.com/getgauge/gauge/api/lang.getAllStepsResponse(0xc0001cbe60, 0xc000152038, 0x0)
+	D:/a/gauge/gauge/api/lang/runner.go:139 +0x7a
+github.com/getgauge/gauge/api/lang.allImplementedStepValues(0xc000152000, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/completionStep.go:74 +0x3b
+github.com/getgauge/gauge/api/lang.stepCompletion(0xc0002543d6, 0x1b, 0xc0002543d6, 0x1, 0xc00002e230, 0x48, 0x23, 0x1, 0x0, 0x8, ...)
+	D:/a/gauge/gauge/api/lang/completionStep.go:43 +0x629
+github.com/getgauge/gauge/api/lang.completion(0xc000252140, 0xb65a7f, 0x17, 0x1, 0x0)
+	D:/a/gauge/gauge/api/lang/completion.go:71 +0x1fb
+github.com/getgauge/gauge/api/lang.(*LangHandler).Handle(0x10d6ff0, 0xc50ca0, 0xc000032150, 0xc4d720, 0xc00009c300, 0xc000252140, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/server.go:135 +0x22ac
+github.com/getgauge/gauge/api/lang.(*LangHandler).handle(0x10d6ff0, 0xc50ca0, 0xc000032150, 0xc00009c300, 0xc000252140, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/server.go:71 +0xd4
+github.com/sourcegraph/jsonrpc2.(*HandlerWithErrorConfigurer).Handle(0xc000140140, 0xc50ca0, 0xc000032150, 0xc00009c300, 0xc000252140)
+	D:/a/gauge/gauge/vendor/github.com/sourcegraph/jsonrpc2/handler_with_error.go:21 +0x7a
+created by github.com/getgauge/gauge/api/lang.lspHandler.Handle
+	D:/a/gauge/gauge/api/lang/server.go:66 +0x72
+15-11-2022 18:49:18.519 [Gauge] [INFO] Watching directory: c:\Repository\Java\qatar-airways-assignment\specs
+15-11-2022 18:49:18.521 [Gauge] [DEBUG] Found 2 files
+15-11-2022 18:49:18.525 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-11-2022 18:49:18.526 [Gauge] [INFO] Initializing specs cache with 2 specs
+15-11-2022 18:49:18.526 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 18:49:18.526 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:49:18.526 [Gauge] [INFO] Initializing steps cache with 2 steps
+15-11-2022 18:49:18.527 [Gauge] [INFO] Starting language runner
+15-11-2022 18:49:19.072 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:49:19.075 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:49:19.978 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+15-11-2022 18:49:34.104 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:49:34.106 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:49:39.114 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:49:39.116 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:49:48.540 [Gauge] [DEBUG] unable to connect to runner : Timed out connecting to java
+Some of the gauge lsp feature will not work as expected.
+15-11-2022 18:49:48.540 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+15-11-2022 18:49:48.548 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+15-11-2022 18:49:52.990 [Gauge] [DEBUG] request #8: textDocument/codeLens: failed to parse c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+c:\Repository\Java\qatar-airways-assignment\specs\example.spec:41 Duplicate scenario definition 'Booking' found in the same specification
+15-11-2022 18:49:53.080 [Gauge] [DEBUG] request #10: textDocument/documentSymbol: parsing failed for c:\Repository\Java\qatar-airways-assignment\specs\example.spec. [[ParseError] c:\Repository\Java\qatar-airways-assignment\specs\example.spec:41 Duplicate scenario definition 'Booking' found in the same specification => 'Booking']
+15-11-2022 18:49:53.256 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:49:53.260 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:49:57.145 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:49:57.149 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:50:15.748 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:50:15.752 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:52:15.899 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:52:15.902 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:52:18.474 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:52:18.480 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:52:24.935 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:52:24.939 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:52:25.557 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 18:52:25.560 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 19:00:40.950 [Gauge] [CRITICAL] request #74: textDocument/completion: runtime error: invalid memory address or nil pointer dereference
+goroutine 219 [running]:
+runtime/debug.Stack(0xc00014d220, 0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/debug/stack.go:24 +0xa4
+github.com/getgauge/gauge/api/lang.recoverPanic(0xc000150320)
+	D:/a/gauge/gauge/api/lang/server.go:311 +0x5e
+panic(0xa82c20, 0x10a26a0)
+	C:/hostedtoolcache/windows/go/1.13.7/x64/src/runtime/panic.go:679 +0x1c0
+github.com/getgauge/gauge/runner.(*GrpcRunner).ExecuteMessageWithTimeout(...)
+	D:/a/gauge/gauge/runner/grpcRunner.go:204
+github.com/getgauge/gauge/api/lang.getAllStepsResponse(0xc00014de60, 0xc00017e038, 0xb58fd3)
+	D:/a/gauge/gauge/api/lang/runner.go:139 +0x7a
+github.com/getgauge/gauge/api/lang.allImplementedStepValues(0xc00017e000, 0x0, 0x0, 0x0, 0x1)
+	D:/a/gauge/gauge/api/lang/completionStep.go:74 +0x3b
+github.com/getgauge/gauge/api/lang.stepCompletion(0xc000172804, 0x15, 0xc000172804, 0x15, 0xc0003a80a0, 0x48, 0x1d, 0x15, 0x0, 0xc0000b7760, ...)
+	D:/a/gauge/gauge/api/lang/completionStep.go:43 +0x629
+github.com/getgauge/gauge/api/lang.completion(0xc000150320, 0xb65a7f, 0x17, 0x1, 0x0)
+	D:/a/gauge/gauge/api/lang/completion.go:71 +0x1fb
+github.com/getgauge/gauge/api/lang.(*LangHandler).Handle(0x10d6ff0, 0xc50ca0, 0xc000032150, 0xc4d720, 0xc0003da500, 0xc000150320, 0xc000189200, 0x8, 0xc0001c9dd0, 0x9b5c1f)
+	D:/a/gauge/gauge/api/lang/server.go:135 +0x22ac
+github.com/getgauge/gauge/api/lang.(*LangHandler).handle(0x10d6ff0, 0xc50ca0, 0xc000032150, 0xc0003da500, 0xc000150320, 0x0, 0x0, 0x0, 0x0)
+	D:/a/gauge/gauge/api/lang/server.go:71 +0xd4
+github.com/sourcegraph/jsonrpc2.(*HandlerWithErrorConfigurer).Handle(0xc0000672e0, 0xc50ca0, 0xc000032150, 0xc0003da500, 0xc000150320)
+	D:/a/gauge/gauge/vendor/github.com/sourcegraph/jsonrpc2/handler_with_error.go:21 +0x7a
+created by github.com/getgauge/gauge/api/lang.lspHandler.Handle
+	D:/a/gauge/gauge/api/lang/server.go:66 +0x72
+15-11-2022 19:00:41.027 [Gauge] [INFO] Watching directory: c:\Repository\Java\qatar-airways-assignment\specs
+15-11-2022 19:00:41.028 [Gauge] [DEBUG] Found 2 files
+15-11-2022 19:00:41.031 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-11-2022 19:00:41.034 [Gauge] [INFO] Initializing specs cache with 2 specs
+15-11-2022 19:00:41.034 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\test.spec
+15-11-2022 19:00:41.034 [Gauge] [DEBUG] Adding specs from c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 19:00:41.034 [Gauge] [INFO] Initializing steps cache with 2 steps
+15-11-2022 19:00:41.036 [Gauge] [INFO] Starting language runner
+15-11-2022 19:00:42.626 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+15-11-2022 19:00:43.447 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 19:00:43.453 [Gauge] [INFO] Spec file added / modified: c:\Repository\Java\qatar-airways-assignment\specs\example.spec
+15-11-2022 19:01:11.045 [Gauge] [DEBUG] unable to connect to runner : Timed out connecting to java
+Some of the gauge lsp feature will not work as expected.
+15-11-2022 19:01:11.045 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+15-11-2022 19:01:11.051 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+15-11-2022 19:03:36.567 [Gauge] [INFO] Spec file removed: c:\Repository\Java\qatar-airways-assignment\specs\test.spec

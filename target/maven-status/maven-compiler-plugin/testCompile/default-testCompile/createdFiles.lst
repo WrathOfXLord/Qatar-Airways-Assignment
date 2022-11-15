@@ -1,5 +1,9 @@
-com\testinium\BaseTest.class
-com\testinium\Steps\StepImplementation$1.class
+com\testinium\methods\Methods.class
 com\testinium\Steps\Direction.class
 com\testinium\BaseTest$1.class
-com\testinium\Steps\StepImplementation.class
+com\testinium\pages\BookingSteps.class
+com\testinium\pages\HomeSteps.class
+com\testinium\pages\FlightSteps.class
+com\testinium\BaseTest.class
+com\testinium\methods\Methods$1.class
+com\testinium\pages\PageBase.class

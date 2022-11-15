@@ -17,11 +17,11 @@ import io.appium.java_client.remote.MobileCapabilityType;
 import io.appium.java_client.remote.MobilePlatform;
 
 public class BaseTest {
-    protected static AppiumDriver<MobileElement> driver;
+    public static AppiumDriver<MobileElement> driver;
     protected static Logger logger = LogManager.getLogger(BaseTest.class);
     protected boolean localAndroid = true;
     protected String deviceName = "b81ade34";
-    protected String appActivity = "com.m.qr.home.main.ui.HomeActivity";
+    protected String appActivity = "com.m.qr.home.onboarding.ui.OnBoardingActivity";
     protected String appPackage = "com.m.qr";
     protected String urlString = "http://localhost:4723/wd/hub";
 
